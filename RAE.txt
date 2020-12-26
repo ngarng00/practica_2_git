@@ -1,0 +1,12 @@
+
+ordenador: https://dle.rae.es/ordenador
+programa: https://dle.rae.es/programa
+casa: https://dle.rae.es/casa
+avión: https://dle.rae.es/avi%C3%B3n
+moto: https://dle.rae.es/moto
+mesa: https://dle.rae.es/mesa
+comer: https://dle.rae.es/comer
+cenar: https://dle.rae.es/cenar
+vender: https://dle.rae.es/vender
+comprar: https://dle.rae.es/comprar
+
